@@ -1,0 +1,88 @@
+﻿  Entity.cpp
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(30,19): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Game/Classes/Entity.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(39,26): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Game/Classes/Entity.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(39,23): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Game/Classes/Entity.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(55,19): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Game/Classes/Entity.cpp')
+  
+  Game.cpp
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(30,19): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Game/Game.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(39,26): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Game/Game.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(39,23): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Game/Game.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(55,19): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Game/Game.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\Game\Classes\Projectile.h(33,22): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Game/Game.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\Game\Classes\Projectile.h(50,22): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Game/Game.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\Game\Game.cpp(26,28): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Passaralho\source\repos\JOGO2\Game\Game.cpp(37,26): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\Passaralho\source\repos\JOGO2\Game\Game.cpp(57,26): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\Passaralho\source\repos\JOGO2\Game\Game.cpp(136,16): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\Game\Game.cpp(137,16): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\Game\Game.cpp(160,93): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\Game\Game.cpp(226,13): warning C4305: 'inicializando': truncamento de 'unsigned __int64' para 'float'
+C:\Users\Passaralho\source\repos\JOGO2\Game\Game.cpp(321,11): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\Game\Game.cpp(322,11): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\Game\Game.cpp(337,11): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\Game\Game.cpp(338,11): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\Game\Game.cpp(348,12): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\Game\Game.cpp(349,12): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+  api.cpp
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(30,19): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'api/api.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(39,26): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'api/api.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(39,23): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'api/api.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(55,19): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'api/api.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\api\api.cpp(109,58): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\api\api.cpp(151,61): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\api\api.cpp(151,49): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\api\api.cpp(151,37): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\api\api.cpp(151,24): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\api\api.cpp(161,66): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\api\api.cpp(161,52): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\api\api.cpp(161,38): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Passaralho\source\repos\JOGO2\api\api.cpp(161,24): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+  main.cpp
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(30,19): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'main.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(39,26): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'main.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(39,23): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'main.cpp')
+  
+C:\Users\Passaralho\source\repos\JOGO2\api\api.h(55,19): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'main.cpp')
+  
+  Gerando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\Passaralho\source\repos\JOGO2\BaseClass\Lista.h(53): warning C4715: 'Lista<Entity *>::Get': nem todos os caminhos de controle retornam um valor
+C:\Users\Passaralho\source\repos\JOGO2\BaseClass\Lista.h(53): warning C4715: 'Lista<Projectile *>::Get': nem todos os caminhos de controle retornam um valor
+C:\Users\Passaralho\source\repos\JOGO2\BaseClass\Lista.h(53): warning C4715: 'Lista<Attack *>::Get': nem todos os caminhos de controle retornam um valor
+  All 318 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  JOGO2.vcxproj -> C:\Users\Passaralho\source\repos\JOGO2\x64\Release\JOGO2.exe
